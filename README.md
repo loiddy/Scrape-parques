@@ -14,7 +14,7 @@ Para instalar esta mini app, ejecute los siguientes comandos en una terminal
 
 Esto te instalará la app y la libreria puppeteer.
 
-## ¿Como se usa?
+## ¿Cómo se usa?
 
 Después de la instalación, puede comenzar la demostración con
 
