@@ -8,7 +8,7 @@ Se ha hecho con **node.js** y la librería **puppeteer**. Puppeteer proporciona 
 
 Para instalar esta mini app, ejecute los siguientes comandos en una terminal
 
-    git clone https://github.com/Blobiddy/Scrape-parques.git
+    git clone https://github.com/loiddy/Scrape-parques.git
     cd Scrape-parques
     npm install
 
